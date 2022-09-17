@@ -11,7 +11,7 @@
   "bugs": {
     "url": "https://github.com/SudoDotDog/Sudoo-Marked-Mixin-Object/issues"
   },
-  "homepage": "https://github.com/SudoDotDog/Sudoo-Marked-Mixin-Math#readme",
+  "homepage": "https://github.com/SudoDotDog/Sudoo-Marked-Mixin-Object#readme",
   "peerDependencies": {
     "@sudoo/marked": "*"
   },
