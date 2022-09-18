@@ -1,6 +1,6 @@
 {
   "name": "@sudoo/marked-mixin-object",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Object Mixin for Marked",
   "repository": {
     "type": "git",

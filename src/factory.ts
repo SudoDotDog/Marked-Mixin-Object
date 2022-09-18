@@ -7,6 +7,6 @@
 import { MarkedExportsMixinFactory } from "@sudoo/marked-mixin";
 import { MarkedObjectMixinMethods } from "./methods";
 
-export const objectMixinFactory = MarkedExportsMixinFactory.fromExports(
+export const markedOjectMixinFactory = MarkedExportsMixinFactory.fromExports(
     MarkedObjectMixinMethods
 );
